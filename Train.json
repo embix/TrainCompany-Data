@@ -1119,16 +1119,16 @@
 			]
 		},
 		{
-			"id": 41,
+			"id": TODO,
 			"group": 1,
-			"name": "Reko-Wagen 3-achs Tragl.",
+			"name": "Reko-Wagen 2-achs Tragl.",
 			"shortcut": "Baagtr",
 			"speed": 90,
 			"weight": 18,
 			"force": 0,
 			"length": 13,
 			"drive": 0,
-			"reliability": 0.5,
+			"reliability": 0.8,
 			"cost": 22000,
 			"exchangeTime": 120,
 			"capacity": [
@@ -1136,7 +1136,7 @@
 			]
 		},
 		{
-			"id": 42,
+			"id": TODO,
 			"group": 1,
 			"name": "Reko-Wagen 4-achs",
 			"shortcut": "Bghw",
@@ -1145,7 +1145,7 @@
 			"force": 0,
 			"length": 19,
 			"drive": 0,
-			"reliability": 0.8,
+			"reliability": 0.85,
 			"cost": 80000,
 			"exchangeTime": 120,
 			"capacity": [
