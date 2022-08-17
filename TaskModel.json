@@ -7316,6 +7316,10 @@
 				{ 
 					"stations": [ "RK", "TPH", "TV", "TS", "TH", "TC", "NAN", "NN", "NER", "NBA", "NLF", "NK", "US", "UGW", "UNM", "LL" ],
 					"pathSuggestion": [ "RK", "TPH", "TV", "TS", "TKH", "TH", "TOE", "TC", "NSNE", "NAN", "NN", "NER", "NBA", "NED", "NHM", "NK", "US", "UR", "UGW", "UPF", "UGH", "UKO", "UNM", "LL" ]
+				},
+				{
+					"stations": [ "RK", "TS" ],
+					"pathSuggestion": [ "RK", "TPH", "TV", "TS" ]
 				}
 			]
 		}
